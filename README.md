@@ -30,4 +30,3 @@ List of commands...
 
 ## Credits
 
-Made by Justin
